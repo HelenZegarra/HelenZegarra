@@ -53,4 +53,4 @@ I am a multi-disciplinary technologist with a foundation in electronics engineer
 
 ## 🌐 Let's Connect
 * 💼 **Portfolio & Case Studies:** [helenzegarra.com](https://www.helenzegarra.com)
-* 📬 **Email:** helenzegarra94@gmail.com / helenzegarra.work@gmail.com
+* 📬 **Email:** helenzegarra.work@gmail.com
